@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>직원 연봉 정보</comment>
+<entry key="20140413">Employee [eld=20140413, eName=홍길동, dept=기획부, salary=1900000, bonusPoint=0.2, total=2280000]</entry>
+<entry key="20160415">Employee [eld=20160415, eName=홍길동, dept=기획부, salary=1200000, bonusPoint=0.2, total=1440000]</entry>
+<entry key="20130412">Employee [eld=20130412, eName=홍길동, dept=기획부, salary=2800000, bonusPoint=0.2, total=3360000]</entry>
+<entry key="20150414">Employee [eld=20150414, eName=홍길동, dept=기획부, salary=2500000, bonusPoint=0.2, total=3000000]</entry>
+<entry key="20170416">Employee [eld=20170416, eName=홍길동, dept=기획부, salary=2100000, bonusPoint=0.2, total=2520000]</entry>
+</properties>
